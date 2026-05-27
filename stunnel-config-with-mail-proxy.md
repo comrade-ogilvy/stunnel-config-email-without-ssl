@@ -574,12 +574,7 @@ Edit `BLOCKED_COUNTRIES` in `/etc/nginx/auth-backend.py`:
 
 ```python
 BLOCKED_COUNTRIES = {
-    "CN",  # China
-    "VN",  # Vietnam
     "KP",  # North Korea
-    "RU",  # Russia
-    "ID",  # Indonesia  ← add
-    "NG",  # Nigeria    ← add
 }
 ```
 
@@ -589,15 +584,7 @@ Restart:
 sudo systemctl restart mail-auth
 ```
 
-### Common country ISO codes
-
-| Country | Code | Country | Code |
-|---|---|---|---|
-| China | `CN` | Russia | `RU` |
-| Vietnam | `VN` | Indonesia | `ID` |
-| North Korea | `KP` | Nigeria | `NG` |
-| Iran | `IR` | Bangladesh | `BD` |
-| Brazil | `BR` | Pakistan | `PK` |
+### Country ISO codes
 
 Full list: https://www.iso.org/obp/ui/#search
 
