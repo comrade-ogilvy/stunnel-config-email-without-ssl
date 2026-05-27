@@ -67,4 +67,4 @@ Price includes one email address in the `purelymail.com` domain plus email hosti
 
 ---
 
-*Originally published at [mnok Blog](https://symnok.blogspot.com/) — [July 30, 2024](https://symnok.blogspot.com/2024/07/working-email-services-for-windows.html)*
+*Originally published at [symnok Blog](https://symnok.blogspot.com/) — [July 30, 2024](https://symnok.blogspot.com/2024/07/working-email-services-for-windows.html)*
