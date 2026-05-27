@@ -409,4 +409,4 @@ sudo stunnel -fd 0 < /etc/stunnel/stunnel.conf
 
 ## License
 
-This document is provided as-is for educational and operational use. stunnel is open-source software licensed under the GNU GPL v2.
+This document is provided as-is for educational and operational use. stunnel is open-source software licensed under the MIT License.
